@@ -1,3 +1,7 @@
+----All you need to do is go to: https://developer.spotify.com/dashboard/applications , Log in, Create An App & put the CLIENT ID in  Util/Spotify.js.------
+----And you will be able to make new playlists in your Spotify account---------------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
